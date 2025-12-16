@@ -1,0 +1,38 @@
+# Ignore raw or large datasets
+data/raw/
+data/large_files/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Model files (if large)
+*.h5
+*.pt
+*.ckpt
+
+# Temporary files
+*.tmp
