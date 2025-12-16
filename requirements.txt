@@ -1,0 +1,32 @@
+# Data manipulation & analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+
+# Model management & MLOps
+mlflow
+joblib
+
+# API & validation
+fastapi
+uvicorn
+pydantic
+
+# Logging & utilities
+python-dotenv
+
+# Testing
+pytest
+coverage
+
+# Date and time utilities
+python-dateutil
+category_encoders
