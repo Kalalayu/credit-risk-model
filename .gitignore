@@ -1,5 +1,5 @@
 # Ignore raw or large datasets
-data/raw/
+data/
 data/large_files/
 # Python
 __pycache__/
@@ -11,6 +11,7 @@ __pycache__/
 .env
 venv/
 env/
+.venv/
 
 # IDEs
 .vscode/
